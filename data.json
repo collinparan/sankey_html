@@ -1,0 +1,23 @@
+{
+    "nodes":[
+      {"name":"Revenues"},
+      {"name":"Costs of goods sold"},
+      {"name":"Gross Profit"},
+      {"name":"R&D"},
+      {"name":"Sales and Marketing"},
+      {"name":"General and Admin"},
+      {"name":"Operating Income"},
+      {"name":"ROIC"}
+    ],
+    "links":[
+      {"source":0,"target":2,"value":41706},
+      {"source":1,"target":2,"value":13045},
+      {"source":0,"target":1,"value":13045},
+      {"source":2,"target":6,"value":28661},
+      {"source":3,"target":6,"value":5204},
+      {"source":4,"target":6,"value":5082},
+      {"source":5,"target":6,"value":1327},
+      {"source":6,"target":7,"value":17048}
+    ]
+  }
+  
